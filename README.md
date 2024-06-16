@@ -7,3 +7,4 @@ Page dedicated to versioning various Python codes
 * Inserindo novo código
 * Insert new topic, with commit right
 * Insert new topic for learning commit remote
+* Command push
