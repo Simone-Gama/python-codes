@@ -5,4 +5,5 @@ Page dedicated to versioning various Python codes
 
 * Inserindo Tópicos
 * Inserindo novo código
-* Inser new topic, with commit right
+* Insert new topic, with commit right
+* Insert new topic for learning commit remote
